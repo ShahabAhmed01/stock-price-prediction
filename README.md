@@ -138,12 +138,9 @@ Task 2/
 
 | Chart                        | Screenshot                          |
 |------------------------------|-------------------------------------|
-| Closing Price Trend          | ![Closing Price](screenshots/closing_price_trend.png) |
-| Volume Analysis              | ![Volume](screenshots/volume_analysis.png) |
-| Moving Averages              | ![Moving Averages](screenshots/moving_averages.png) |
-| Correlation Heatmap          | ![Heatmap](screenshots/correlation_heatmap.png) |
-| Actual vs Predicted          | ![Predictions](screenshots/actual_vs_predicted.png) |
-| Model Comparison             | ![Comparison](screenshots/model_comparison.png) |
+| Historical Prices            | ![Historical](screenshots/01-historical-prices.png) |
+| Moving Averages              | ![Moving Averages](screenshots/02-moving-averages.png) |
+| Model Predictions            | ![Predictions](screenshots/03-model-predictions.png) |
 
 ---
 
